@@ -12,3 +12,10 @@ layout: default
 
 {Nicole Paucar}(https://github.com/nicolepaucar)
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
